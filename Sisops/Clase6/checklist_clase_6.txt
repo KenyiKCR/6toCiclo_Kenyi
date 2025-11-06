@@ -1,0 +1,53 @@
+1.  IPC. Solución de Dekker y solución de Peterson. MOS4E, Ch.2, Sec.2.3.3, pp.124,125; diapositivas 1, pp.1-7; MOS5E, Ch.2, Sec.2.4.3, pp.124,125.
+    Tiempo de aprendizaje: 30 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Comprender la lógica del algoritmo y porque no se usan en la practica moderna.
+    Material adicional usado: Videos y Ejemplos en C de.   
+
+2.  La instrucción TSL. MOS4E, Ch.2, Sec.2.3.3, pp.126,127; diapositivas 1, pp.8,9; MOS5E, Ch.2, Sec.2.4.3, pp.125-127.
+    Tiempo de aprendizaje: 25 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Entender cómo la instrucción TSL garantiza atomicidad y cómo implementa spinlocks.
+    Material adicional usado: Google  
+
+3.  Problema de inversión de prioridades. MOS4E, Ch.2, Sec.2.3.4, pp.127,128; diapositivas 1, pp.10-24; MOS5E, Ch.2, Sec.2.4.4, p.127.
+    Tiempo de aprendizaje: 40 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Comprender cómo un hilo de baja prioridad puede bloquear a hilos de mayor prioridad y las estrategias para resolverlo.
+    Material adicional usado: Artículos sobre herencia de prioridad y ejemplos de pseudocódigo.    
+
+4.  Primitivas sleep y wakeup. MOS4E, Ch.2, Sec.2.3.4, pp.128-130; diapositivas 1, pp.25,26; MOS5E, Ch.2, Sec.2.4.4, pp.127-129.
+    Tiempo de aprendizaje: 40 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Entender la diferencia entre bloquear un hilo y ponerlo a dormir, y cómo se despierta correctamente.
+    Material adicional usado: Ejercicios prácticos en C.   
+
+5.  Semáforos. MOS4E, Ch.2, Sec.2.3.5-6, pp.130-137; diapositivas 1, pp.27-43; MOS5E, Ch.2, Sec.2.4.5-6, pp.129-138.
+	Tiempo de aprendizaje: 1 hora
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en:Implementar correctamente semáforos contadores y binarios, y evitar deadlocks y starvation.
+    Material adicional usado: El libro The Little Book of Semaphores y ejemplos de productor-consumidor.  
+
+6.  Monitores. MOS4E, Ch.2, Sec.2.3.7, pp.137-144; diapositivas 1, pp.44-69; MOS5E, Ch.2, Sec.2.4.7, pp.138-145.
+    Tiempo de aprendizaje: 1 hora
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Comprender cómo los monitores encapsulan la sincronización y los datos compartidos, y la diferencia con semáforos.
+    Material adicional usado: Ejemplos en Java y pseudocódigo de monitores.   
+
+7.  Paso de mensajes. MOS4E, Ch.2, Sec.2.3.8, pp.144-146; diapositivas 1, pp.70-74; MOS5E, Ch.2, Sec.2.4.8, pp.145-148.
+    Tiempo de aprendizaje: 45 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en:Diferenciar entre comunicación por memoria compartida y paso de mensajes, y manejar correctamente la sincronización.
+    Material adicional usado: Google  
+
+8.  Barreras. MOS4E, Ch.2, Sec.2.3.9, pp.146-148; diapositivas 1, pp.75-76; MOS5E, Ch.2, Sec.2.4.9, pp.148-152.
+    Tiempo de aprendizaje: 50 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Implementar barreras reutilizables y entender el concepto de generación para evitar deadlocks.
+    Material adicional usado: Ejemplos de sincronización de hilos en C con pthreads y semáforos.
+
+9.  The Little Book of Semaphores by Allen Downey. Diapositivas 1, pp.77-110
+    Tiempo de aprendizaje: 30 min
+    Autoaprendizaje o explicación por un miembro de grupo (indicar por quién): Autoaprendizaje
+    La dificultad consiste en: Aplicar los conceptos de semáforos en problemas clásicos como productor-consumidor, lectores-escritores y cena de filósofos.
+    Material adicional usado: Ejercicios de semáforos en C y ejemplos de sincronización de hilos.	
