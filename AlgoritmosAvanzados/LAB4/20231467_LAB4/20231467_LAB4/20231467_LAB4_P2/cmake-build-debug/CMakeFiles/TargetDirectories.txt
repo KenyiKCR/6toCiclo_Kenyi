@@ -1,0 +1,3 @@
+D:/LAB4/20231467_LAB4/20231467_LAB4_P2/cmake-build-debug/CMakeFiles/20231467_LAB4_P2.dir
+D:/LAB4/20231467_LAB4/20231467_LAB4_P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/LAB4/20231467_LAB4/20231467_LAB4_P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

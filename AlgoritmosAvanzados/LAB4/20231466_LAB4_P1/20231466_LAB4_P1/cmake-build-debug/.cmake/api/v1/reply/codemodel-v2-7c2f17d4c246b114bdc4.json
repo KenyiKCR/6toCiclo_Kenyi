@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "20231466_LAB4_P1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "20231466_LAB4_P1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-20231466_LAB4_P1-Debug-d9efcaaeb2485c03b216.json",
+					"name" : "20231466_LAB4_P1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB4/20231466_LAB4_P1/20231466_LAB4_P1/cmake-build-debug",
+		"source" : "C:/Users/Kenyi/Documents/GitHub/6toCiclo_Kenyi/AlgoritmosAvanzados/LAB4/20231466_LAB4_P1/20231466_LAB4_P1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
